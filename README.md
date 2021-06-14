@@ -41,7 +41,7 @@ Black, Gold, Silver, Green, Purple, Pink.
 
 ![Xiaomi Mi Note 2](https://xiaomi-mi.com/uploads/CatalogueImage/xiaomi-mi-note-2-international-ed-6gb128gb-dual-sim-black-01_15108_1483092964.jpg "Xiaomi Mi Note 2 in black")
 
-## android_device_xiaomi_grus_3.5.9_2
+## android_device_xiaomi_scorpio_3.5.9_2
 
 Android TWRP 7.1.2 (Build on NHG47F) device tree for Xiaomi Mi Note 2 (codname: scorpio).
 
